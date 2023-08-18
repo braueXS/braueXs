@@ -1,0 +1,22 @@
+:root {
+    --cor: black#6572eb;
+}
+
+body{
+    background-color: red;
+}
+
+.cabecalho-menu {
+    background-color: #6572eb;
+}
+
+.cabecalho-menu-item {
+    display: block;
+    padding: 10px;
+    font-size: 17px;
+    text-decoration: none;
+    color: black;
+    text-align: center;
+    border-top: 1px solid;
+
+}
